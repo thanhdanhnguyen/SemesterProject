@@ -1,6 +1,8 @@
 # SemesterProject
 Software Engineering's semester project of MT5 - THD
 
+https://github.com/thanhdanhnguyen/SemesterProject.git
+
 1	Übersicht
 1.1	Projektübersicht
 -	It’s game for the children while waiting for parents ( e.g: in hospital, in hair salon etc. )
